@@ -1,0 +1,3 @@
+/Users/nikolas/CLionProjects/git/cmake-build-debug/CMakeFiles/git.dir
+/Users/nikolas/CLionProjects/git/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikolas/CLionProjects/git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
